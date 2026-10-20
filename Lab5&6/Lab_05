@@ -1,6 +1,5 @@
-#LAB 05: Implement the Minimax Algorithm for Game Playing
 import math
-
+#LAB 05: Implement the Minimax Algorithm for Game Playing
 def minimax(depth, node_index, maximizing_player, values, max_depth):
 
     # Terminal node
