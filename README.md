@@ -1,0 +1,6 @@
+AI Lab file Group 
+Jovial 2024BITE053
+Vidhi 2024BITE080
+Keerthana 2024BITE048
+Aliza 2024BITE020
+Jithendra 2024BITE044
